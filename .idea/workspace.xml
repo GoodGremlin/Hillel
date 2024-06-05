@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a000f1-8d15-4108-9106-bae9abd7959c" name="Changes" comment="second homework">
-      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
-    </list>
+    <list default="true" id="a8a000f1-8d15-4108-9106-bae9abd7959c" name="Changes" comment="second homework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GoodGremlin"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:GoodGremlin/Hillel.git",
+    "accountId": "7648fd26-2445-4712-b273-e3cd6e9defa2"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -37,7 +47,7 @@
     "Python.homework_2_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/valeriy/courses/Hillel/homework_2",
+    "last_opened_file_path": "/Users/valeriy/courses/Hillel/main/homework_2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,6 +58,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main/homework_2" />
       <recent name="$PROJECT_DIR$/homework_2" />
     </key>
   </component>
@@ -121,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716634742664</updated>
-      <workItem from="1716634744047" duration="3116000" />
+      <workItem from="1716634744047" duration="3318000" />
     </task>
     <task id="LOCAL-00001" summary="second homework">
       <option name="closed" value="true" />
@@ -131,7 +142,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716637268695</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second homework">
+      <option name="closed" value="true" />
+      <created>1716638771922</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716638771922</updated>
+    </task>
+    <task id="LOCAL-00003" summary="second homework">
+      <option name="closed" value="true" />
+      <created>1716638868739</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716638868739</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
