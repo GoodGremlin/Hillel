@@ -2,11 +2,10 @@ operators = '+-*/'
 
 isContinue = True
 
-operator = ''
-
 while isContinue:
     expression = input('Enter a example: ')
     result = ''
+    operator = ''
 
     for char in expression:
         if char in operators:
