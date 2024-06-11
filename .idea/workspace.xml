@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a000f1-8d15-4108-9106-bae9abd7959c" name="Changes" comment="homework 4.3">
-      <change afterPath="$PROJECT_DIR$/main/homework_5/homework_5_1.py" afterDir="false" />
+    <list default="true" id="a8a000f1-8d15-4108-9106-bae9abd7959c" name="Changes" comment="homework 5.1">
+      <change afterPath="$PROJECT_DIR$/main/homework_5/homework_5_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Python.homework_4_2.executor": "Run",
     "Python.homework_4_3.executor": "Run",
     "Python.homework_5_1.executor": "Run",
+    "Python.homework_5_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/valeriy/courses/Hillel",
@@ -72,30 +73,7 @@
       <recent name="$PROJECT_DIR$/homework_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.homework_5_1">
-    <configuration name="homework_3_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Hillel" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/homework_3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/homework_3/homework_3_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.homework_5_2">
     <configuration name="homework_4_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hillel" />
       <option name="ENV_FILES" value="" />
@@ -188,13 +166,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="homework_5_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hillel" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/homework_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/homework_5/homework_5_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.homework_5_2" />
         <item itemvalue="Python.homework_5_1" />
         <item itemvalue="Python.homework_4_3" />
         <item itemvalue="Python.homework_4_2" />
         <item itemvalue="Python.homework_4_1" />
-        <item itemvalue="Python.homework_3_3" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +218,8 @@
       <workItem from="1716634744047" duration="3318000" />
       <workItem from="1717600696484" duration="1739000" />
       <workItem from="1717686163090" duration="1255000" />
-      <workItem from="1717828131792" duration="13280000" />
+      <workItem from="1717828131792" duration="14034000" />
+      <workItem from="1718125049315" duration="1289000" />
     </task>
     <task id="LOCAL-00001" summary="second homework">
       <option name="closed" value="true" />
@@ -283,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717836085021</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="homework 5.1">
+      <option name="closed" value="true" />
+      <created>1718025172549</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718025172549</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,7 +317,8 @@
     <MESSAGE value="homework 4.1" />
     <MESSAGE value="homework 4.2" />
     <MESSAGE value="homework 4.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 4.3" />
+    <MESSAGE value="homework 5.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 5.1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Hillel$homework_2_2.coverage" NAME="homework_2_2 Coverage Results" MODIFIED="1716637202201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_2" />
@@ -315,9 +326,10 @@
     <SUITE FILE_PATH="coverage/Hillel$homework_4_3.coverage" NAME="homework_4_3 Coverage Results" MODIFIED="1717847525723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/homework_4" />
     <SUITE FILE_PATH="coverage/Hillel$homework_2_1.coverage" NAME="homework_2_1 Coverage Results" MODIFIED="1716635881151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_2" />
     <SUITE FILE_PATH="coverage/Hillel$homework_3_3.coverage" NAME="homework_3_3 Coverage Results" MODIFIED="1717829137406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/homework_3" />
-    <SUITE FILE_PATH="coverage/Hillel$homework_5_1.coverage" NAME="homework_5_1 Coverage Results" MODIFIED="1718025010873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/homework_5" />
+    <SUITE FILE_PATH="coverage/Hillel$homework_5_1.coverage" NAME="homework_5_1 Coverage Results" MODIFIED="1718025153471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/homework_5" />
     <SUITE FILE_PATH="coverage/Hillel$homework_3_1.coverage" NAME="homework_3_1 Coverage Results" MODIFIED="1717602298296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/homework_3" />
     <SUITE FILE_PATH="coverage/Hillel$homework_4_1.coverage" NAME="homework_4_1 Coverage Results" MODIFIED="1717832095745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/homework_4" />
+    <SUITE FILE_PATH="coverage/Hillel$homework_5_2.coverage" NAME="homework_5_2 Coverage Results" MODIFIED="1718126530249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/homework_5" />
     <SUITE FILE_PATH="coverage/Hillel$homework_4_2.coverage" NAME="homework_4_2 Coverage Results" MODIFIED="1717833214011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/homework_4" />
     <SUITE FILE_PATH="coverage/Hillel$app.coverage" NAME="app Coverage Results" MODIFIED="1716635801344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
   </component>
